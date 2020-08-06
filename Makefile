@@ -2,7 +2,7 @@
 #
 # 1. Make [Prepare release](release)
 # 2. Make [Test](test)
-# 3. Make [Update repository to latest Makefile](release)
+# 3. Make [Update repository to latest Makefile](update_repo)
 # 4. Make [Refresh imports](update_imports)
 
 #.PHONY: all
