@@ -247,7 +247,7 @@ AnnotationAssertion(rdfs:label oboInOwl:hasOBONamespace "has_obo_namespace")
 
 # Class: obo:ZECO_0000100 (conditions)
 
-AnnotationAssertion(obo:IAO_0000115 obo:ZECO_0000100 "The state in which an organism exists. ")
+AnnotationAssertion(obo:IAO_0000115 obo:ZECO_0000100 "The state in which an organism exists.")
 AnnotationAssertion(rdfs:label obo:ZECO_0000100 "conditions"@en)
 
 # Class: obo:ZECO_0000101 (control conditions)
